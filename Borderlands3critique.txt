@@ -2,44 +2,77 @@ Borderlands 3 Critique: No Guns, No Glory
 
 INTRO: 
 
-Borderlands has been a guilty pleasure of mine for a while now.  Think of it as
-the Taco Bell of FPS games. You know it's not good for you, but when it's 2 a.m
-and you've got the munchies, it hits the spot. So how does the latest entry in
-this decade-old franchise hold up? Especially considering that other looter
-shooters have become tremendously popular in recent years?
+Borderlands is a guilty pleasure of mine.  Think of it as the Taco Bell of FPS
+games. You know it's not good for you, but when it's 2 a.m and you've got a
+craving, it hits the spot. With that analogy in mind, how does the latest entry
+in this franchise hold up? Especially considering that other looter shooters
+like Destiny and Warframe have become popular in recent years?
 
 
 STORY:
 
-I normally try to focus on breaking down a game's mechanics and combat, since I
-think that's where core player experience lies. Thus, story is mostly
-superfluous for me, especially considering that most titles have awful
-narratives. However, there are game that go beyond that and are hellbent at
-shoving in as much of their awful writing as possible. Borderlands 3 is a prime
-example of this. Most of the characters are simultaneously annoying and
-one-dimensional, which are especially problematic considering they never shut
-up. The game is obsessed with its dank memes and other shitty jokes and
-relentless bombards you with them through the in-game radio. I suspect this is
-a ploy to cover up its trashfire of a story, which hinges upon major characters
-acting like complete idiots and dying because they conviently forgot that they
-had god powers. This is all exacerbated because the game has multiple classes
-and a NG+ option for scaled loot. So if you want to max out all four vault
-hunters, you could be potentially playing the campaign eight times over. 
+I normally try to focus on a game's mechanics and combat, since that's where
+meat of the  experience lies. Thus, story is mostly superfluous, especially
+considering that most titles have awful narratives. However, there are game
+that go beyond that and are hellbent at shoving in as much of their awful
+writing as possible. Borderlands 3 is the prime example of this. Most of the
+characters are simultaneously annoying and one-dimensional, which are
+especially problematic considering they never shut the fuck up. While this was
+a problem in previous entries, there were some redeeming aspects, such as
+Handsome Jack's clever taunts in Borderlands 2.  Here, every returning
+character has been flanderized to the point of being cariacatures of their
+former selves. And that's not mentioning the new characters like Ava, who gives
+me a brain aneurysm everytime she opens her fucking mouth.
 
-Why there is no adventure mode option to skip through the story and dialogue on
-subsequent playthroughs, I don't know, but the lack of one kills any desire I
-have to try out another class. So, with that rant out of the way, let's examine
-the gameplay of Borderlands 3, which thankfully fares much better.
+And to make things more painful, the game is obsessed with its dank memes and
+relentlessly bombards you with them throughout the campaign. Let me show you
+how agonizing these are to sit through.
 
+-- play memes quest and jabber moaning--
+
+I suspect these are an attempt to cover up the game's trashfire of a story,
+which hinges upon major characters being complete idiots and dying because they
+conviently forgot their god powers existed. These issues are all exacerbated
+because the game has multiple classes and a NG+ option for scaled quest
+rewards. So if you want to max out all four vault hunters, you could be
+potentially slogging the campaign eight times over. 
+
+The lack of an option to skip the story and dialogue on subsequent playthroughs
+kills any desire I have try another class or farm quest-related gear. However,
+even if we had that option, the pacing would still be all over the place, but
+more on that later. 
+
+So, with that rant out of the way, let's examine the
+gameplay of Borderlands 3, which thankfully fares much better.
+
+
+GAMEPLAY: 
+
+In series tradition, the introduction is terrible. The tutorial patronizingly
+assumes you've never played a video game before and has you perform advanced
+manuevers like jumping over a two foot ravine or pulling a lever right next to
+you.  All of this occurs while you cringe at Claptrap's embarassingly unfunny
+dialogue. Now, this intro could've worked if the game had any sort of
+self-awareness and poked fun at the mundanity of tutorial, like in Far Cry 3:
+Blood Dragon, but it's all played completely straight.
+
+Thankfully, after enduring this shit for about 40 minutes, the game opens up
+and you're free to explore Pandora to a limited extent. And here we enter
+Borderlands 3's core gameplay loop: vehicular exploration, combat, loot, and
+talking to Lilith. 
 
 Let's address the elephant in the room: the bugs. For a game that's over six
-months old, Borderlands 3 is shockingly unstable. A small subset of the issues
+months old, Borderlands 3 is a disaster. A small subset of the issues
 I've had are: losing hours of saved progress, frequent crashes to desktop,
 performance hitching, and unreliable multiplayer.
 
-Overall, I've got mixed feeling on Borderlands 3. On one hand, it's nice to see
+CONCLUSIONS:
+
+Overall, I've got mixed feelings on Borderlands 3. On one hand, it's nice to see
 drastic improvements to combat alongside many needed QOL tweaks. It's the first
 time I can say that I've genuinely enjoyed the gunplay. On the other hand, the
 series still masturbates to its awful meme-ridden humor, to the detriment of
 the pacing. Borderlands does not need dank memes to be enjoyable, as the
-gameplay stands on its own, but Gearbox still feels obliged to include them.
+gameplay stands on its own, but Gearbox still feels obliged to include them for some reason.
+
+
