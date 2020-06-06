@@ -111,20 +111,41 @@ all of the possible random weapon combinations.
 
 Dahl makes standard military-styled munitions. All of their weapons, be it
 their sniper rifles, pistols, or SMGs offer up low recoil and high accuracy,
-allowing you to easily score consecutive headshots. So long as you're precise
-with your shots, Dahl's weapons will deal solid DPS and have reasonable ammo
-consumption. 
+allowing you to easily score consecutive critical hits. So long as you're
+precise with your headshots, Dahl's weapons will deal solid DPS and have
+reasonable ammo consumption. 
 
-Their unique gimmick is their variable optics and firing patterns, making very
-versatile in mid to long ranged combat. For example, your assault rifle can be
-fully automatic and with a reflex sight for targeting nearby enemies, and can
-turn into a semiautomatic rifle with a scope for sniping.  Excluding some
-legendaries with fixed parts, this is all controlled by random chance, so you
-can get less desirable combinations like double burst fire. Overall, while Dahl
-tends to make the least exciting weapons, they're solid workhorses and are
+Their unique gimmick is their variable optics and firing patterns, making their
+weapons versatile in mid to long ranged combat. For example, your assault rifle
+can be fully automatic and with a reflex sight for targeting nearby enemies,
+and can turn into a semiautomatic rifle with a scope for sniping.  Excluding
+some legendaries with fixed parts, this is all controlled by random chance, so
+you can get less desirable combinations like double burst fire. Overall, while
+Dahl tends to make unexciting weapons, they're solid workhorses and are
 useful throughout the entire campaign.
 
-On the opposite end of the spectrum, we have Tediore, the king of wacky gimmicks. Excluding a few legendaries, their firearms are rather pathetic, with below par stats across the board. 
+On the opposite end of the spectrum, we have Tediore, the king of wacky
+gimmicks. Excluding a few legendaries, their firearms' stats are rather
+pathetic, being below par across the board.
+
+However, it's in their unique reload gimmick that they truly shine. Instead of
+swapping magazines like every other manufacturer, your vault hunter will throw
+away their gun, with a new one being digitally-reconstructed in their hands a
+short while later. The firearm you discarded explodes upon contact with an
+enemy or after a few seconds, with its damage scaling off of reserve ammunation
+in the magazine at time of reload. Therefore, I think it's best to view these
+guns as grenades, since you'll fire off one round and chuck the gun at a pack
+of enemies. Overall, Tediore is hit or miss. While their reload gimmick is fun
+and offers up a nice change of pace from other weapon manufacturers, you can't
+really use their guns are conventional firearms due to their low overall
+damage. Additionally, a single reload explosion can easily consume dozens of
+rounds, which quickly chews through your reserve ammunition. 
+
+Jakobs makes spaghetti western-themed firearms. All of their guns boast
+exceptional base damage, at the expense of having high recoil and being
+non-elemental. Of all of the weapon manufacturers, they have the least exciting
+weapon gimmick. Firearms boast enhanced critical damage, and upon
+impact, the bullet will ricochet to a nearby enemy. 
 
 Let's address the elephant in the room: the bugs. For a game that's over six
 months old, Borderlands 3 is a disaster. A small subset of the issues
