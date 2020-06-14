@@ -12,35 +12,39 @@ STORY:
 
 --play scream montage-- 
 
-I generally ignore stories in my critiques, as I focus on a game's mechanics
-and combat, since the core player experience lies. However, there are games
-that are hellbent at shoving in as much of their awful writing as possible, to
-the point where I can't ignore it. Borderlands 3 is the prime example of this.
-Most of the characters are simultaneously annoying and one-dimensional, which
-are especially problematic considering they never shut the fuck up. While this
-was a problem in previous entries, there were some redeeming aspects, such as
-Handsome Jack's clever taunts in Borderlands 2.  Here, every returning
-character has been flanderized to the point of being cariacatures of their
-former selves. And that's not mentioning the new characters like Ava, who gives
-me a brain aneurysm everytime she opens her mouth.
+I generally ignore stories in my critiques, since I focus on a game's mechanics
+and combat. However, there are games that are hellbent at shoving in as much of
+their awful writing as possible, to the point where I can't simply ignore it.
+Borderlands 3 is the prime example of this.
+
+From the main story to the side quests, your senses are being constantly
+assaulted by noise, especially from its obnoxious characters. While this was
+admittedly a problem in previous entries, there were some redeeming aspects to
+the writing, like Handsome Jack's clever taunts or the Sanctuary's somber
+atmosphere following Roland's death.  Here, every returning character has been
+flanderized to the point of being cariacatures of their former selves. And
+that's not mentioning the new cast of fools like The Calypso Twins and Ava, who
+give me brain aneurysms everytime they open their mouths.
 
 And to make things more painful, the game is obsessed with its dank memes and
-relentlessly bombards you with them throughout the campaign. Let me show you
-how agonizing these are to sit through.
+relentlessly bombards you with them. Let me show you how agonizing these are to
+sit through.
 
 -- play memes quest and jabber moaning--
 
-I suspect these are an attempt to cover up the game's trashfire of a story,
-which hinges upon major characters being complete idiots and dying because they
+I suspect these are all attempts to cover up the game's trashfire of a story,
+which hinges upon major actors being complete idiots and dying because they
 conviently forgot their god powers existed. These issues are all exacerbated
 because the game has multiple classes and a NG+ option for scaled quest
 rewards. So if you want to max out all four vault hunters, you could be
 potentially slogging through the campaign eight times over. 
 
-The lack of an option to skip the story and dialogue on subsequent playthroughs
-kills any desire I have to farm quest-related gear. However, even if we had
-that option, the pacing would still be all over the place, but more on that
-later. 
+Even if you mute the dialogue, the pacing's still fucked, as you have to wait
+for everyone to leisurely finish their conversations, many of which drag on for
+minutes. The lack of any option to skip the story and dialogue on subsequent
+playthroughs kills any desire I have to farm quest-related gear. However, even
+if we had that option, the campaign's progression would still be all over the
+place, but more on that later. 
 
 GAMEPLAY: 
 
@@ -63,9 +67,9 @@ small and agile. The outrunner sits in between two, offering up balanced health
 and speed. However, you will never want to use anything but the cyclone. For
 starters, the technical and outrunner have terrible handling, as their massive
 hitboxes cause them to easily collide with environmental geometry. Furthermore,
-if your car blows up, another one can be spawned at a nearby catch-a-ride for no
-cost. So the extra durability of the outrunner and technical don't matter when
-it's trivial to replace vehicles. 
+if your car blows up, another one can be spawned at a nearby catch-a-ride for
+no cost. So the extra durability of the outrunner and technical are worthless
+when it's trivial to replace vehicles. 
 
 In general, car combat is unrewarding. The experience you gain from blowing up
 enemies while driving is miniscule. Plus, you're limited to three weapons per
@@ -87,22 +91,23 @@ you want to fight them, you'll often have to reload the game until they spawn
 in. Plus, if you've not hit the level cap, you'll need to go back and refarm
 that boss every five or so levels for updated gear.
 
-Finally, side missions will send you throughout all corners of the map
-performing fetch quests in exchange for experience. Most weapons received this
-way tend to be equivalent to standard loot, but with some additional effect on
-top, such as a percent chance to do extra damage.  That said, very few of these
-are memorable, and some like Kill Killavolt can drag on for up to an hour.   
+Finally, side missions will send you to all corners of the current map on fetch
+quests in exchange for experience. Most weapons received this way tend to be
+equivalent to standard loot, but with some additional effect on top, such as a
+percent chance to do extra damage.  That said, very few of these are memorable,
+and some like Kill Killavolt can drag on for up to an hour.   
 
 I'm disappointed that there are no activities that make interesting use of the
 maps, such as dynamically generated races or badass enemy hunts. That way,
 you'd be encouraged to stick around in each world and actually do the
 sidequests and events to level up faster, rather than just speedrunning through
-the campaign to get to mayhem mode for drastically increased experience gain.
+the campaign to get to mayhem mode for its drastically increased experience
+gains.
 
 So with exploration out of the way, let's dive into the combat.
 Kinesthetically, it's solid. Even though the game has a billion plus gun
 combinations, the highly varied weapon animations and sound assets make them
-feel mostly distinct. The gore and explosions are also pretty hilarious, even
+feel mostly distinct. The gore and explosions can be pretty hilarious, even
 though combat can become a visual clusterfuck as a result.  
 
 When talking about the firearms in Borderlands 3, I think it's more helpful to
@@ -117,12 +122,12 @@ reasonable ammo consumption.
 
 Their unique gimmick is their variable optics and firing patterns, making their
 weapons versatile in mid to long ranged combat. For example, your assault rifle
-can be fully automatic and with a reflex sight for targeting nearby enemies,
-and can turn into a semiautomatic rifle with a scope for sniping.  Excluding
-some legendaries with fixed parts, this is all controlled by random chance, so
-you can get less desirable combinations like double burst fire. Overall, while
-Dahl tends to make unexciting weapons, they're solid workhorses and are
-useful throughout the entire campaign.
+can be fully automatic, equipped with a reflex sight for targeting nearby
+enemies. You can then turn it into a semiautomatic rifle with a scope for
+sniping.  Excluding some legendaries with fixed parts, this is all controlled
+by random chance, so you can get less desirable combinations like double burst
+fire. Overall, while Dahl tends to make unexciting weapons, they're solid
+workhorses and are useful throughout the entire campaign.
 
 On the opposite end of the spectrum, we have Tediore, the king of wacky
 gimmicks. Excluding a few legendaries, their firearms' stats are rather
@@ -130,22 +135,27 @@ pathetic, being below par across the board.
 
 However, it's in their unique reload gimmick that they truly shine. Instead of
 swapping magazines like every other manufacturer, your vault hunter will throw
-away their gun, with a new one being digitally-reconstructed in their hands a
-short while later. The firearm you discarded explodes upon contact with an
-enemy or after a few seconds, with its damage scaling off of reserve ammunation
-in the magazine at time of reload. Therefore, I think it's best to view these
-guns as grenades, since you'll fire off one round and chuck the gun at a pack
-of enemies. Overall, Tediore is hit or miss. While their reload gimmick is fun
-and offers up a nice change of pace from other weapon manufacturers, you can't
-really use their guns are conventional firearms due to their low overall
-damage. Additionally, a single reload explosion can easily consume dozens of
-rounds, which quickly chews through your reserve ammunition. 
+away their gun, with a new one being digitally-reconstructed in their hands
+shortly afterwards. The firearm you discarded explodes upon contact with an
+enemy or automatically after a few seconds, with its damage scaling off of the
+reserve ammunation in the magazine at time of reload. Therefore, I think it's
+best to view these guns as grenades, since you'll fire off one round and chuck
+the gun at a pack of enemies. 
+
+Overall, Tediore is hit or miss. While their reload gimmick is fun and offers
+up a nice change of pace from other weapon manufacturers, you can't really use
+their guns are conventional firearms due to their low overall damage.
+Additionally, a single reload explosion can easily consume dozens of rounds,
+which quickly chews through your reserve ammunition. They also deal
+self-damage, so a poorly thrown explosion can easily kill you. 
 
 Jakobs makes spaghetti western-themed firearms. All of their guns boast
-exceptional base damage, at the expense of having high recoil and being
-non-elemental. Of all of the weapon manufacturers, they have the least exciting
-weapon gimmick. Firearms boast enhanced critical damage, and upon
+exceptional base damage, at the expense of having high recoil and lacking
+elemental variants. Of all of the weapon manufacturers, they have the least
+exciting weapon gimmick. Firearms boast enhanced critical damage, and upon
 impact, the bullet will ricochet to a nearby enemy. 
+
+Despite their uninteresting gimmick, Jakobs is probably my favorite manufacturer in the game. 
 
 Let's address the elephant in the room: the bugs. For a game that's over six
 months old, Borderlands 3 is a disaster. A small subset of the issues
@@ -154,11 +164,17 @@ performance hitching, and unreliable multiplayer.
 
 CONCLUSIONS:
 
-Overall, I've got mixed feelings on Borderlands 3. On one hand, it's nice to see
-drastic improvements to combat alongside many needed QOL tweaks. It's the first
-time I can say that I've genuinely enjoyed the gunplay. On the other hand, the
-series still masturbates to its awful meme-ridden humor, to the detriment of
-the pacing. Borderlands does not need dank memes to be enjoyable, as the
-gameplay stands on its own, but Gearbox still feels obliged to include them for some reason.
+Overall, I've got mixed feelings on Borderlands 3. On one hand, it's nice to
+see drastic improvements to combat flow alongside many needed QOL tweaks. It's
+the first time I can say that I've genuinely enjoyed the gunplay. On the other
+hand, the series still masturbates to its awful meme-ridden humor, to the
+detriment of the pacing. Borderlands does not need dank memes to be enjoyable,
+as the gameplay mostly stands on its own, but Gearbox still feels obliged to
+include them for some reason.  Also, the current endgame is a complete mess
+right now, as mayhem 2.0 is a bullet-spongey grindfest that forces you to
+repeat the same content ad naseum. 
 
-
+Ultimately, it seems like Gearbox is conflicted in its vision, as it can't
+decide if it wants a traditional campaign with "wacky" humor or a diablo-esque
+grindfest, with the current game being unsatisfying in both respects. But hey,
+maybe fourth time's the charm.
